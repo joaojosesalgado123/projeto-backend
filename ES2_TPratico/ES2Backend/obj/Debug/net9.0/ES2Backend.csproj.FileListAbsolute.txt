@@ -1,0 +1,268 @@
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\appsettings.Development.json
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\appsettings.json
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.staticwebassets.endpoints.json
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.exe
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.deps.json
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.runtimeconfig.json
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.pdb
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Humanizer.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Npgsql.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.CodeDom.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Text.Json.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.csproj.AssemblyReference.cache
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.AssemblyInfoInputs.cache
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.AssemblyInfo.cs
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.csproj.CoreCompileInputs.cache
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\scopedcss\bundle\ES2Backend.styles.css
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets\msbuild.ES2Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets\msbuild.ES2Backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets\msbuild.build.ES2Backend.props
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ES2Backend.props
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ES2Backend.props
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets.pack.json
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.csproj.Up2Date
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.dll
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\refint\ES2Backend.dll
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.pdb
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.genruntimeconfig.cache
+C:\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ref\ES2Backend.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\appsettings.Development.json
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\appsettings.json
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.staticwebassets.endpoints.json
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.exe
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.deps.json
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.runtimeconfig.json
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ES2Backend.pdb
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Humanizer.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Npgsql.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.CodeDom.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\System.Text.Json.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.csproj.AssemblyReference.cache
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.AssemblyInfoInputs.cache
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.AssemblyInfo.cs
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.csproj.CoreCompileInputs.cache
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\scopedcss\bundle\ES2Backend.styles.css
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets\msbuild.ES2Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets\msbuild.ES2Backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets\msbuild.build.ES2Backend.props
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ES2Backend.props
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ES2Backend.props
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.csproj.Up2Date
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\refint\ES2Backend.dll
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.pdb
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ES2Backend.genruntimeconfig.cache
+C:\Universidade\2º Ano (Repetir)\2º semestre\ES2\ES2_TPratico\ES2Backend\obj\Debug\net9.0\ref\ES2Backend.dll
